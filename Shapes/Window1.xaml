@@ -23,7 +23,10 @@
         <Path MouseLeftButtonDown="Path_MouseLeftButtonDown" Stroke="Black" Data="M 100, 50 A 4, 4, 50, 1, 1, 180, 80" Height="134.104" Canvas.Top="262.896" Width="144.296" Canvas.Left="27" StrokeThickness="3" Stretch="Fill" />
         <Button Canvas.Left="12" Canvas.Top="12" Content="Button" Height="23" Name="button1" Width="75" Click="button1_Click" />
         <Path MouseLeftButtonDown="Path_MouseLeftButtonDown" Stroke="Black" Data="M 0, 0 L 100, 0 L 50, 100 Z" Height="113.104" Canvas.Top="170" Width="212.048" Canvas.Left="57.168" StrokeThickness="3" Stretch="Fill" />
-        
+        <Button x:Name="button" Content="Button" Canvas.Left="715.065" Canvas.Top="197.282" Width="75"/>
+        <Button x:Name="button2" Content="Button" Canvas.Left="521" Canvas.Top="370.146" Width="75"/>
+        <Button x:Name="button3" Content="Button" Height="3.601" Canvas.Left="-338.923" Canvas.Top="-77.619" Width="1.2"/>
+
         <!-- https://professorweb.ru/my/WPF/graphics_and_animation/level13/13_5.php -->
 
         <!--
